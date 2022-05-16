@@ -1,0 +1,301 @@
+<separator>
+ <div class="w3-center w3-animate-opacity">
+        <div class="w3-container w3-margin w3-center w3-animate-opacity">
+            <img src="./img/misterio.jpg" class="w3-image" alt="David rodeado de un aura misteriosa" />
+        </div>
+        <div class="w3-container w3-center">
+            <h2 class="w3-wide">DAVID CHIRINO</h2>
+            <p>Estudiante de infortmática, escritor y redactor.</p>
+        </div>
+    </div>
+
+    <div class="w3-container w3-content w3-center" style="max-width:600px">
+        <p class="w3-justify">
+            Esta es una página de prueba que estoy construyendo por diversión y nada mas. Lo que te digan sobre el dinero son puras mentiras.
+        </p>
+    </div>
+
+    <div class="w3-row-padding  w3-light-grey">
+        <div class="w3-card-4 ">
+            <a href="#fotografo">
+                <article class="w3-third w3-center ">
+                    <p>
+                        <h2> Fotógrafo</h2>
+                    </p>
+                    <img src="./img/mono_fotografo_900x500.jpeg" alt="El mono fotografo" style="width:100%" class="w3-col s4 w3-center w3-container w3-margin" />
+                </article>
+            </a>
+        </div>
+
+        <div class="w3-card-4 ">
+            <a href="#escritor">
+                <article class="w3-third w3-center">
+                    <p>
+                        <h2>Escritor</h2>
+                    </p>
+                    <img src="./img/mono_900x500.jpg" alt="Un Chimpancé escritor" style="width:100%" class="w3-col s4 w3-center w3-container w3-margin" />
+                </article>
+            </a>
+        </div>
+
+        <div class="w3-card-4 ">
+            <a href="#programador">
+                <article class="w3-third w3-center">
+                    <p>
+                        <h2> Programador</h2>
+                    </p>
+                    <img src="./img/mono_confundido_900x500.jpg" alt="Mono programador" style="width:100%" class="w3-col s4 w3-center w3-container w3-margin" />
+                </article>
+            </a>
+        </div>
+    </div>
+    <div class="bg-text">
+        <h1>Escritor</h1>
+        <p>Una pequeña muestra de mi estilo</p>
+    </div>
+    <div class="parallax bg-image">
+    </div>
+    <div id="escritor" class="w3-container">
+        <div class="row g-0">
+            <div class="col-md-4 ">
+                <img src="./img/lookingglass.png" style="width:80%;" alt="Un hombre con una máscara de espejo" />
+            </div>
+            <div class="col-md-8 w3-center w3-container">
+                <header>
+                    <h1> Un dios entra a un bar </h1>
+                </header>
+                <p class="w3-left-align  w3-card"> Eran las 3 de las mañana cuando llegó, yo bebía en un rincón de aquel bar, en donde el hedor a orina era minimizado por la buena música. No recuerdo el nombre del local, pero todos la llamamos “La rockola aromatizante”. Tenía mi espalda
+                    contra la pared y podía ver todo el bar que, aunque grande, no podías dar un paso sin chocar con alguien. Estaban celebrando algo que no me importa recordar. Yo bebía mi nuevo cheque mientras fantaseaba renunciar de forma bombástica,
+                    tal vez cagandome en el escritorio de mi jefe o cagando en el patio de su casa, no, no funcionaría, no sabría de quién es la mierda y…
+                    <br> —El alcohol acortará tu vida a la mitad— Dijo una voz a mi derecha, sosteniendo una pinta de cerveza en cada mano.
+                    <span id="dots">...</span> <span id="more">
+							<br> 
+							—Entonces tú morirás mañana— le respondí. El hombre rio y prosigue a sentarse frente a mí. Con los brazos apoyados en la mesa entrelazó los dedos y dejó las pintas frente a sus codos. Era extrañamente simétrico, pienso ahora.
+							<br> 
+							 
+							—Eso me recuerda a un chiste—Comienza a hablar, y antes de que pueda detenerlo prosigue:— Un dios entra a un bar y encuentra a un pastor bebiendo, entonce va y lo confronta: “¡El alcohol acortará tu vida a la mitad!” el pastor responde: “No es cierto, esta es la primera vez que bebo. He ayudado a descarriados que han bebido toda su vida y siguen vivos” Un viento ruge, la tierra tiembla y el Dios grita “¿¡Cómo te atreves a cuestionarme!? ¡Yo cree el universo y si digo que el alcohol mata entonces matará a cualquiera que lo tome!” Pero el pastor está cansado de este tipo y le dice: “Mire, si usted cree de verdad que moriré con una pinta, entonces usted tómela. Si no lo mata entonces le creeré” Y el Dios agarra la pinta de cerveza y se la zampa de un trago, unos segundos después cae muerto.
+							<br> 
+							—¿Eso es todo?—Le replico
+							<br> 
+
+							—Si
+							<br> 
+
+							—Ese fue el peor chiste que he escuchado.
+							<br> 
+
+							—Yo lo encuentro hilarante.
+							<br> 
+
+							—¿Cómo?
+							<br> 
+
+							—No explicaré el chiste.
+							<br> 
+
+							Él tomó un gran trago de cerveza. Comencé a detallarlo; recuerdo que vestía un traje formal azul. Estoy seguro de que su voz era gruesa y era mucho más alto y mayor que yo, comparado a mí él era una momia, su piel era más oscura que la mía, como un bronceado. Y su cara… No la recuerdo.
+							<br> 
+							—¿Qué le dirías a Dios si lo estuvieras viendo—dijo después de tragar? Yo reí, Probablemente quiera que entre a un culto. Pero él reaccionó:— Ese no fue un chiste.
+							<br> 
+							—Tu humor da pena—Respondí—¿Cómo esperabas que respondiera?
+							<br> 
+
+							—Con una respuesta. Supongamos que Dios creador de todo baja a la tierra y se disfraza de humano, y tú fueses el único que supieses quien es en realidad, ¿Qué le dirías?—Fijó sus ojos en mí, expectante de mi respuesta, se inclinó hacia mí desde su silla. Tenía su total atención. Me sentí bastante incómodo.
+							<br> 
+
+							—Nada, si quiere dejar de ser Dios por Y o X motivo pues… Yo no seré quien se lo arruine.
+							<br> 
+
+							—Cambiemos la situación, digamos que no EL Dios, sino UN Dios. Este tipo en particular es responsable de una masacre de, digamos, 100.000 personas y tú lo sabes. ¿Qué le dirías?
+							<br> 
+
+							—¿Detendrías a un asesino seríal en la calle por tu cuenta? No a menos que quieras que te mate. Lo mismo con un Dios.
+							<br> 
+
+							—¿Y si planeara hacer lo mismo de nuevo?
+							<br> 
+
+							—Son Dioses—Respondí de inmediato cortando el tema—Son más poderosos que todos juntos, no hay forma alguna de siquiera obligarlos a detenerse, y dudo que puedas ser convencidos.
+							<br> 
+
+							—De acuedo, pero digamos que sí puedes hacer algo al respecto. Digamos que en realidad te escucharán, que en realidad puedes hacer que cambien de parecer si juegas bien tus cartas. Digamos que hasta puedes hacerles daño. ¿Qué harías en esa situación?—Lo pensé por un rato. ¿Por qué estoy invirtiendo tanta energía en esta hipotética? Aunque la verdad es que me estoy divirtiendo.
+							<br> 
+
+							—Si estas criaturas fuesen capaces de razonamiento humano entonces sí, estaría dispuesto a dialogar con esas cosas.—El hombre se reacomodó, se veía satisfecho—Pero si el mero hecho de no tener que preocuparse de un bienestar ya transforma la mente de una persona… ¿Cómo podría un ser con más años de vida que todos nosotros juntos no estar más allá de la capacidad humana?
+							<br> 
+
+							—Tienes razón—Dijo levantándose—, me gusta la pregunta y soy muy curioso, nada más. Y una última cosa—Señaló los vasos de cerveza, uno estaba medio vacío y el otro estaba al tope—no te bebas la cerveza que está entera—Miré el vaso confundido y le dije a la cara:
+							<br> 
+
+							—Acabas de asegurarte de que me tome la cerveza llena.
+							<br> 
+							El hombre se vio confundido.
+							<br> 
+
+							—No… ¿Por qué? ¿Por qué vas en contra de mi voluntad tan fácilmente?
+							<br> 
+
+							—Así son los humanos, ya deberías saberlo—Examiné el vaso nuevamente, un tarro completo de cerveza guardado por un cilindro de vidrio—¿Qué tiene la cerveza?
+							<br> 
+							—Nada.
+							<br> 
+
+							—¿Vas a regresar?
+							<br> 
+
+							—No, solo quiero que mi voluntad se respete.
+							<br> 
+
+							—¿Entonces porque no te la bebes? Dejas vaso y medio y de repente quieres que se desperdicie. Si de verdad quieres que se respete tu voluntad entonces no permitas que te irrespeten. Acabas de darme la opción de no cumplir tu deseo y beber cerveza gratis o no hacerlo y dejar que el licor se desperdicie.
+							<br> 
+
+							—Lo que no entiendes—Dijo el hombre—Que solo te pedí un favor a cambio de una conversación y, si me bebiera la cerveza después de haber decidido que no lo haría, entonces yo me irrespetaría.
+							<br> 
+
+							—Así no funciona el mundo.
+							<br> 
+
+							—En fin, por favor no te tomes la cerveza, o haz lo que quieras, me voy.
+							<br> 
+							Y así el hombre salió del bar, desapareciendo en la noche. De repente recordé la luz color a orina, la orina olor a orina y la música, que era bastante buena. Mis ojos orbitaron hacia las pintas “ya deben estar tibias” me dije y naturalmente levanté la pinta medio vacía.
+							Un pequeño pedazo de papel doblado y húmedo se escondía debajo del licor, lo tomé y desdoblé. Estaba empapado, pero todavía era legible. No recuerdo lo que decía.  
+							</span>
+
+                    <script>
+                        function myFunction() {
+                            var dots = document.getElementById("dots");
+                            var moreText = document.getElementById("more");
+                            var btnText = document.getElementById("myBtn");
+
+                            if (dots.style.display === "none") {
+                                dots.style.display = "inline";
+                                btnText.innerHTML = "Leer Más";
+                                moreText.style.display = "none";
+                            } else {
+                                dots.style.display = "none";
+                                btnText.innerHTML = "Leer Menos";
+                                moreText.style.display = "inline";
+                            }
+                        }
+                    </script>
+                </p>
+                <button onclick="myFunction()" class="w3-button" id="myBtn">Leer Más</button>
+            </div>
+
+        </div>
+    </div>
+    <div class="bg-text" id="fotografo">
+
+
+        <h1>Fotógrafo</h1>
+        <p>Unas cuantas fotos que he tomado.</p>
+    </div>
+    <div class="bg-image2 parallax2"> </div>
+    <div class="container ">
+
+        <div class="w3-center">
+            <div class="mySlides">
+                <div class="numbertext">1 / 3 </div>
+                <img src="./img/slide1.jpg" alt="David haciendo cosplay de Chavista " style="max-height:500px;" />
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">2 / 3 </div>
+                <img src="./img/slide2.jpg" alt="Estatua del indio manaure" style="max-height:500px;" />
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">3 / 3 </div>
+                <img src="./img/slide3.jpg" alt="David sosteniendo un gato" style="max-height:500px;" />
+            </div>
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+        <div class="caption-container">
+            <p id="caption"></p>
+        </div>
+
+        <div class="row">
+
+            <div class="column">
+                <img class="demo cursor" src="./img/slide1.jpg" style="width:100%" onclick="currentSlide(1)" alt="David haciendo cosplay de Chavista">
+            </div>
+
+            <div class="column">
+                <img class="demo cursor" src="./img/slide2.jpg" style="width:100%" onclick="currentSlide(2)" alt="Estatua del indio manaure">
+            </div>
+
+            <div class="column">
+                <img class="demo cursor" src="./img/slide3.jpg" style="width:100%" onclick="currentSlide(3)" alt="David sosteniendo un gato">
+            </div>
+
+
+
+        </div>
+
+    </div>
+    <div class="bg-text" id="programador">
+        <h1>Programador</h1>
+        <p>Una lista demostrando mi progreso</p>
+    </div>
+    <div class="parallax3"></div>
+    <div class="w3-container">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="./img/html css js.png" style="width:80%" alt="Logo de HTML5, Javascript y Css" />
+            </div>
+            <div class=" col-md-8">
+                <header>
+                    <h1>Mi progreso con los siguientes lenguajes: </h1>
+                </header>
+
+                <h4>Javascript</h4>
+                <div class=" w3-round w3-light-grey">
+
+                    <div class="w3-container w3-round w3-yellow " style="width:70%">70%</div>
+                </div>
+
+                <h4>CSS</h4>
+                <div class=" w3-round w3-light-grey">
+
+                    <div class="w3-container w3-round w3-blue " style="width:60%">60%</div>
+                </div>
+
+                <h4>HTML5</h4>
+                <div class=" w3-round w3-light-grey">
+
+                    <div class="w3-container w3-round w3-red " style="width:80%">80%</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <button onclick="topFunction()" id="myBtn2" title="Go to top">Inicio</button>
+    <script>
+        //Get the button:
+        mybutton = document.getElementById("myBtn2");
+
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function() {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+            } else {
+                mybutton.style.display = "none";
+            }
+        }
+
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+            document.body.scrollTop = 0; // For Safari
+            document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        }
+    </script>
+</separator>
+

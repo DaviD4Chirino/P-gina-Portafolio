@@ -1,0 +1,36 @@
+body,
+html {
+    height: 100%;
+}
+
+.bg-image-blur-biblioteca {
+    background-image: url("./Contenido/img/1-libreria-lello.jpg");
+    /* Add the blur effect */
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.scrollmenu {
+    margin: 4px, 4px;
+    padding: 4px;
+    background-color: #ffffff;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    color: white;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}
