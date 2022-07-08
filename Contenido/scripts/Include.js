@@ -1,4 +1,4 @@
-var navbar = (` <div class="w3-margin">
+const navbar = (`<div class="w3-margin">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <a class="navbar-brand w3-margin-left">David</a>
 
@@ -21,4 +21,5 @@ var navbar = (` <div class="w3-margin">
     </div>
 </nav>
 
-</div>`)
+</div> `)
+
