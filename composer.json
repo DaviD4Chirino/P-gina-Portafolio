@@ -1,3 +1,5 @@
-$ echo '{}' > composer.json
-$ git add composer.json
-$ git commit -m "add composer.json for PHP app detection"
+{
+    "require": {
+        "php": "8.1.6"
+    }
+}
